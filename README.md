@@ -1,1 +1,3 @@
-# practica3-intro-softw
+# Primer proyecto en GitHub
+
+Este es mi primer proyecto
