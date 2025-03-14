@@ -84,4 +84,8 @@ public class Date {
       return false;
     }
   }
+
+  public void sayHello(){
+		System.out.println("Hello There");
+  }
 }
